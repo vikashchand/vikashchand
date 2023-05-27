@@ -2,7 +2,7 @@
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently a student of vit vellore 
 
-🧠 I'm currently learning data structures and front-END.
+🧠 I'm currently dealing with DSA and MERN development
 
 😍 Wanna grab super-dream offers and yeah 8.5cgpa🙄🙄
 
