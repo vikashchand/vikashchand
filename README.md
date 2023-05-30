@@ -16,7 +16,7 @@
      I always have a plan B
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikashchand)](https://github.com/anuraghazra/github-readme-stats)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={vikashchand}&theme={dark}">
 
 
 
