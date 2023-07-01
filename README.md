@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashchand&show_icons=true&locale=en" alt="vikashchand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashchand&" alt="vikashchand" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikashchand&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
