@@ -4,7 +4,7 @@
 
 🧠 I'm currently dealing with DSA and MERN development
 
-😍 Wanna grab super-dream offers and yeah 8.71cgpa🙄🙄
+😍 Wanna grab super-dream offers and yeah 8.71cgpa
 
 🧑‍💻 I am also aware of cyber-security and hacking attacks (basics)
 
